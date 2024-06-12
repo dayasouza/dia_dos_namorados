@@ -1,11 +1,16 @@
-![Página inicial](readme_logo.png)
+<p align="center">
+    <img src="readme_logo.png" width="200px">
+</p>
 
 # Projeto Eu te Amo
 
 Este é um projeto simples de animação. O objetivo é criar uma interface onde ao ser clicado, uma animação de pulsação é aplicada a um elemento na página.
 
-![Página inicial](eu_te_amo.jpg)
-![Imagem final](coracao.jpg)
+<p align="center">
+    <img src="eu_te_amo.jpg" width="600px">
+    <img src="coracao.jpg" width="600px">
+</p>
+
 
 ### Tecnologias utilizadas:
 
